@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/spotv.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/spotv2.m3u8
 
 =NICKELODEON=
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
+EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
 https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
 
 =ANIMAX=
