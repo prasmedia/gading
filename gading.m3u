@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
 
 =TRANS7=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/langfr-150px-Trans_7_2013_Iklan.svg.png",TRANS7
-https://raw.githubusercontent.com/prasoyt08/live/main/trans7.m3u8
+https://video.detik.com/20detik/smil:20detik-live.smil/index.m3u8
 
 =TRANS=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Trans%2BTV.png",TRANS
