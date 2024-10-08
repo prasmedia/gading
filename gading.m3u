@@ -47,7 +47,8 @@ https://raw.githubusercontent.com/prasoyt08/live/main/trans7.m3u8
 
 =TRANS=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Trans%2BTV.png",TRANS
-https://raw.githubusercontent.com/prasoyt08/live/main/trans.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 =RTV=
 EXTINF:-1 group-title="Local Channels" tvg-logo="https://www.indonesiacantik.co.id/wp-content/uploads/2018/10/RTV-Logo.jpg",RTV
