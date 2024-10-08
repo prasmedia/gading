@@ -47,6 +47,11 @@ https://raw.githubusercontent.com/prasoyt08/live/main/sctv.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
+=MOJI=
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png",MOJI
+https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
 =TRANS7=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/langfr-150px-Trans_7_2013_Iklan.svg.png",TRANS7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
